@@ -1,19 +1,18 @@
 # dev-notes
 
-Personal notes, snippets, and quick references for frontend work.
+Personal notes and snippets for frontend work.
 
-## Sections
+## Topics
 
-- `docs/` — longer write-ups and decisions
-- `scripts/` — small automation helpers
-- `snippets/` — reusable code patterns
-
-## Focus areas
-
-- Accessibility (a11y) patterns and gotchas
-- CSS/JS edge cases
-- Tooling and config tips
+- Accessibility
+- CSS/SCSS
+- React
+- Tooling
 
 ## Usage
 
-Browse freely. Most files are markdown or small scripts meant for reference.
+Browse by topic or search. Notes are informal and updated as I learn.
+
+## License
+
+MIT
